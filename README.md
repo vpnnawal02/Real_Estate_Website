@@ -47,8 +47,8 @@ src/
 ## 📦 Installation & Setup
 
 ```bash
-git clone <repo-url>
-cd <project-folder>
+git clone https://github.com/vpnnawal02/Real_Estate_Website
+cd frontend
 npm install
 npm run dev    # or npm start (CRA)
 ```
